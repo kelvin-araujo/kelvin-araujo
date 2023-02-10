@@ -1,25 +1,27 @@
 ### Hi! I'm Kelvin Araújo 👋
+- 📆 I'm 24 years old.
+- 💻 I'm studying computer science.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
-- 📫 How to reach me: kelvinaraujoh@gmail.com
+- 💡 I'm passionate about technology and how it helps people's lives.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark"  align="center" height="160em">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark"  align="center" height="180em">
   
-  <source media="(prefers-color-scheme: light)", srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue" align="center" height="160em">
+  <source media="(prefers-color-scheme: light)", srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue" align="center" height="180em">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark" alt="Imagem adaptável"  align="center" height="160em">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark" alt="Imagem adaptável"  align="center" height="180em">
 </picture>
 
 <picture>
   <source  
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats" 
-      media="(prefers-color-scheme: dark)" align="center" height="160em"/>
+      media="(prefers-color-scheme: dark)" align="center" height="180em"/>
   
   <source  
      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue)(https://github.com/anuraghazra/github-readme-stats" 
-     media="(prefers-color-scheme: light)" align="center" height="160em"/>
+     media="(prefers-color-scheme: light)" align="center" height="180em"/>
   
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats" alt="Imagem adaptável" align="center" height="160em">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats" alt="Imagem adaptável" align="center" height="180em">
   
 </picture>
 
