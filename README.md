@@ -8,8 +8,8 @@
   srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=dracula"
   media="(prefers-color-scheme: dark)"/>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=light"
+  srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true" />
 </picture>
