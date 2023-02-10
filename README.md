@@ -15,16 +15,17 @@
 
 <picture>
   <source  
-      srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats)"
+      srcset= "(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats)"
       media="(prefers-color-scheme: dark)" align="center" height="160em"/>
   
   <source  
-     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue)(https://github.com/anuraghazra/github-readme-stats)"
+     srcset= "(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats) "
      media="(prefers-color-scheme: light)" align="center" height="160em"/>
   
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats)" alt="Imagem adaptável" align="center" height="160em"/>
+  <img src= "(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats)" alt="Imagem adaptável" align="center" height="160em"/>
   
 </picture>
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kelvin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
