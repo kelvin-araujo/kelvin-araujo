@@ -15,6 +15,6 @@
   
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats" align="center" height="160em">
   
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats" align="center" height="160em">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats" alt="Imagem adaptável" align="center" height="160em">
   
 </picture>
