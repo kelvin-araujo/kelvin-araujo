@@ -14,16 +14,14 @@
 
 
 <picture>
-  <source  
-      srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark"
-      media="(prefers-color-scheme: dark)"   height="160em"/>
+  <source media="(prefers-color-scheme: dark)"  
+   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" height="160em"/>
   
-  <source  
-     srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue"
-     media="(prefers-color-scheme: light)"  height="160em"/>
+  <source media="(prefers-color-scheme: light)"  
+   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue" height="160em"/>
   
-  <img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" 
-       alt="Imagem adaptável"  height="160em"/>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" 
+  alt="Imagem adaptável"  height="160em"/>
   
 </picture> 
  
