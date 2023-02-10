@@ -9,19 +9,18 @@
   
   <source media="(prefers-color-scheme: light)", srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue"  height="160em">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark" alt="Imagem adaptável"   height="160em">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark" alt="Imagem 1" height="160em">
   </picture>
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  
-   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" height="160em"/>
+   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark" height="160em"/>
   
   <source media="(prefers-color-scheme: light)"  
-   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue" height="160em"/>
+   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue" height="160em"/>
   
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" 
-  alt="Imagem adaptável"  height="160em"/>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=vue-dark" alt="Imagem 2"  height="160em"/>
   
 </picture> 
  
