@@ -12,16 +12,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark" alt="Imagem adaptável"  align="center" height="160em">
 </picture>
 
+
 <picture>
   <source  
-      srcset= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
+      srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact)(https://github.com/anuraghazra/github-readme-stats)"
       media="(prefers-color-scheme: dark)" align="center" height="160em"/>
   
   <source  
-     srcset="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
+     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact)(https://github.com/anuraghazra/github-readme-stats)"
      media="(prefers-color-scheme: light)" align="center" height="160em"/>
   
-  <img src= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="Imagem adaptável" align="center" height="160em">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact)(https://github.com/anuraghazra/github-readme-stats)" alt="Imagem adaptável" align="center" height="160em"/>
   
 </picture>
 
