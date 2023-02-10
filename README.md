@@ -3,32 +3,32 @@
 - 💻 I'm studying computer science.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 💡 I'm passionate about technology and how it helps people's lives.
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark"  height="160em">
+  
+  <source media="(prefers-color-scheme: light)", srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue"  height="160em">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark" alt="Imagem adaptável"   height="160em">
+  </picture>
+
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark"  align="center" height="160em">
-  
-  <source media="(prefers-color-scheme: light)", srcset="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue" align="center" height="160em">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-araujo&show_icons=true&count_private=true&theme=vue-dark" alt="Imagem adaptável"  align="center" height="160em">
-</picture>
-
-<!--
-<picture>
   <source  
-      srcset= "(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats)"
-      media="(prefers-color-scheme: dark)" align="center" height="160em"/>
+      srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark"
+      media="(prefers-color-scheme: dark)"   height="160em"/>
   
   <source  
-     srcset= "(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats) "
-     media="(prefers-color-scheme: light)" align="center" height="160em"/>
+     srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue"
+     media="(prefers-color-scheme: light)"  height="160em"/>
   
-  <img src= "(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)(https://github.com/anuraghazra/github-readme-stats)" alt="Imagem adaptável" align="center" height="160em"/>
+  <img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" 
+       alt="Imagem adaptável"  height="160em"/>
   
-</picture> -->
- <picture>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-araujo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)" align="center" height="160em">
- </picture>
+</picture> 
  
+ </div>
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kelvin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kelvin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
