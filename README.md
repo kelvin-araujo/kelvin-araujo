@@ -1,7 +1,7 @@
 ### Hi! I'm Kelvin Araújo 👋
 - 📆 I'm 24 years old.
 - 💻 I'm studying computer science.
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 🌱 I’m currently learning JavaScript, HTML, CSS and React.
 - 💡 I'm passionate about technology and how it helps people's lives.
 ##
 <div>
